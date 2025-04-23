@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **developer**, **problem solver**
 - 🔭 I’m currently working on: **[DhunifyX](#)** – A full-stack music streaming web app with mood-based recommendations.
 - 🌱 I’m learning: **Advanced backend architecture**, **DevOps basics**, and **AI integrations**.
 - 💬 Ask me about: **Java**,  **React**, and **full-stack development**.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [prabhakarpandey7061@gmail.com](mailto:prabhakarpandey7061@gmail.com)
 - ⚡ Fun fact: I love debugging almost as much as I love coffee ☕️
 
 ---
