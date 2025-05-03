@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I'm a passionate **developer**, **problem solver**
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/parbhakar-kumar)
+[![Portfolio(https://www.linkedin.com/in/parbhakar-kumar)
 
 ---
 
